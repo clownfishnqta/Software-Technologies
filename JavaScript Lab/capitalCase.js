@@ -20,5 +20,4 @@ function solution(arr) {
         }
     }
     console.log(result.join(", "));
->>>>>>> 21e3532725d0ffd15c66fc893bd2a16ae6c50371
 }
